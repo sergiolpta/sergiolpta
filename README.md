@@ -13,7 +13,7 @@
 
 
 <p align="left">
-   Linguagens: ** PYTHON **
+   Linguagens: **PYTHON**
   
 </p>
 
