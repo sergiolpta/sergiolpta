@@ -17,6 +17,8 @@
 </p>
 
 <p align="left">
-🗣  Quem quiser entrar em contato, pode ser através do LinkedIn pelo endereço no perfil.
+🗣  Quem quiser entrar em contato.
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-guedes-ferreira-braz-95051b21/)
 </p>
 
