@@ -8,7 +8,7 @@
 👋 Hello everyone. My name is Sergio, I’m 56 years old and I’m starting in programming. I identify with Python and intend to continue going deeper and deeper. <Strong>I want to work with software development and data analysis</Strong>. <br>
   I am currently studying programming, data analysis and cybersecurity.
 
-#teste
+###teste
 
 <p align="left">
    Linguagens: ** Python ** 📖
