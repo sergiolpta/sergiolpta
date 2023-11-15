@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://images.app.goo.gl/H3dEzzWN6HFk4frg6" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá a todos. Meu nome é Sérgio, tenho 56 anos e estou iniciando  em programação. Me identifico com Python e pretendo seguir me aprofundando cada vez mais. <strong>Quero trabalhar com desenvolvimento de software e Análise de Dados</strong>.<br>
