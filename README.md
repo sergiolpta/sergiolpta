@@ -17,6 +17,6 @@
 </p>
 
 <p align="left">
-🗣 Quem quiser entrar em contato, pode ser através do LinkedIn pelo endereço no perfil.
+🗣  Quem quiser entrar em contato, pode ser através do LinkedIn pelo endereço no perfil.
 </p>
 
