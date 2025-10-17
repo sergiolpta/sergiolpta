@@ -3,26 +3,74 @@
 🇧🇷
 <p align="left"> 
 
-👋 Olá a todos. Meu nome é Sérgio, tenho 56 anos e estou iniciando  em programação. Me identifico com Python e pretendo seguir me aprofundando cada vez mais. <strong>Quero trabalhar com desenvolvimento de software e Análise de Dados</strong>.<br> -->
-  Estou no momento estudando programação, análise de dados e cybersecurity.
+<!-- Banner opcional -->
+<img src="https://nexushomelp.tec.br/assets/banner-nexus-github.png" width="100%" alt="Nexus Home LP Banner">
 
-🇺🇸
+# 👋 Olá, eu sou o Sérgio Braz  
 
-👋 Hello everyone. My name is Sergio, I’m 56 years old and I’m starting in programming. I identify with Python and intend to continue going deeper and deeper. <Strong>I want to work with software development and data analysis</Strong>. <br>
-  I am currently studying programming, data analysis and cybersecurity.
+💡 **Especialista em Automação Inteligente — n8n | IA | Processos | Residencial**  
 
+Crio integrações que conectam o mundo físico e digital.  
+Da automação residencial ao fluxo de negócios, transformo tarefas manuais em experiências automáticas e inteligentes. ⚙️🤖  
 
-<p align="left">
-</p>
+---
 
-<p align="left">
+## 🚀 O que faço
 
-  
-🗣  Quem quiser entrar em contato.
+- 🧠 **Automação de Processos com n8n**  
+  Criação de fluxos complexos e agentes inteligentes com Supabase, Redis e IA integrada.  
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-guedes-ferreira-braz-95051b21/)
- 
- 
+- 🏡 **Automação Residencial**  
+  Integração de dispositivos Zigbee, Home Assistant, sensores e rotinas inteligentes.  
+
+- 🤖 **Inteligência Artificial Aplicada**  
+  Construção de assistentes autônomos, RAGs, agentes de atendimento e orquestração com GPT + n8n.  
+
+- 🌐 **Integrações Inteligentes**  
+  APIs, Google Calendar, WhatsApp, Supabase, Sheets e sistemas empresariais.  
+
+---
+
+## 🧰 Stack Principal
+
+`n8n` • `Node.js` • `Supabase` • `Redis` • `PostgreSQL` • `Google Cloud`  
+`Home Assistant` • `Zigbee2MQTT` • `Docker` • `OpenAI` • `Python`  
+
+---
+
+## 🏗️ Projetos em destaque
+
+| Projeto | Descrição |
+|:--|:--|
+| **Smile Odontologia IA** | Agente de atendimento automatizado com IA, Supabase e Google Calendar |
+| **Nexus Home LP** | Automação residencial e digital com foco em integração e inovação |
+| **Vendedor IA** | Fluxo de vendas inteligente com WhatsApp, Supabase e Asaas |
+| **Fluxo Clínica** | Sistema de agendamento autônomo com Redis e Postgres Chat Memory |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiolpta&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolpta&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌎 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sérgio%20Braz-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sergiobraz)  
+[![Nexus Home LP](https://img.shields.io/badge/Nexus%20Home%20LP-Visite%20o%20site-0A66C2?style=for-the-badge&logo=homeassistant)](https://nexushomelp.tec.br)  
+[![GitHub](https://img.shields.io/badge/GitHub-sergiolpta-181717?style=for-the-badge&logo=github)](https://github.com/sergiolpta)
+
+---
+
+> “Automação não é sobre fazer menos — é sobre liberar tempo para fazer o que realmente importa.” ⚡  
+> — Sérgio Braz
+
    😄 Meus interesses: 
    
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
