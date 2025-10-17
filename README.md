@@ -1,6 +1,6 @@
 <!-- 💠 Banner - substitua a URL abaixo pela arte real do seu banner -->
 <p align="center">
- [ <img src="https://nexushomelp.tec.br/assets/banner-nexus-github.png" width="100%" alt="Banner Nexus Home LP - Sérgio Braz">](https://chatgpt.com/s/m_68f24a5c2b588191ac3c2fab904a7d68)
+https://github.com/sergiolpta/sergiolpta.github.io/blob/main/images/Tecnologia%20e%20Inova%C3%A7%C3%A3o%20Digital%20Residencial.png
 </p>
 
 # 👋 Olá, eu sou o **Sérgio Braz**  
