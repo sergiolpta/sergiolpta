@@ -1,57 +1,64 @@
+<!-- 💠 Banner - substitua a URL abaixo pela arte real do seu banner -->
+<p align="center">
+  <img src="https://nexushomelp.tec.br/assets/banner-nexus-github.png" width="100%" alt="Banner Nexus Home LP - Sérgio Braz">
+</p>
 
-<img src="https://nexushomelp.tec.br/assets/banner-nexus-github.png" width="100%" alt="Nexus Home LP Banner">
+# 👋 Olá, eu sou o **Sérgio Braz**  
+💡 **Automação Inteligente | n8n | IA | Processos | Automação Residencial**
 
-🇧🇷
-<p align="left"> 
-
-
-# 👋 Olá, eu sou o Sérgio Braz  
-
-💡 **Especialista em Automação Inteligente — n8n | IA | Processos | Residencial**  
-
-Crio integrações que conectam o mundo físico e digital.  
-Da automação residencial ao fluxo de negócios, transformo tarefas manuais em experiências automáticas e inteligentes. ⚙️🤖  
+Transformo **rotinas manuais em sistemas autônomos**.  
+Crio fluxos que conectam dados, dispositivos e pessoas — unindo **automação digital**, **IA** e **inovação residencial**. ⚙️🤖  
 
 ---
 
-## 🚀 O que faço
+## 🚀 Áreas de Atuação
 
-- 🧠 **Automação de Processos com n8n**  
-  Criação de fluxos complexos e agentes inteligentes com Supabase, Redis e IA integrada.  
+- 🧠 **Automação de Processos e IA**
+  - Fluxos inteligentes com **n8n**, **Supabase**, **Redis** e **PostgreSQL**  
+  - Agentes autônomos e RAGs com **GPT + IA aplicada**
 
-- 🏡 **Automação Residencial**  
-  Integração de dispositivos Zigbee, Home Assistant, sensores e rotinas inteligentes.  
+- 🏡 **Automação Residencial**
+  - Integração com **Home Assistant**, **Zigbee**, **MQTT**, sensores e rotinas de conforto e segurança  
 
-- 🤖 **Inteligência Artificial Aplicada**  
-  Construção de assistentes autônomos, RAGs, agentes de atendimento e orquestração com GPT + n8n.  
+- 🌐 **Integrações Inteligentes**
+  - Conexões com **Google Calendar**, **WhatsApp**, **Sheets**, **Asaas** e APIs REST  
 
-- 🌐 **Integrações Inteligentes**  
-  APIs, Google Calendar, WhatsApp, Supabase, Sheets e sistemas empresariais.  
-
----
-
-## 🧰 Stack Principal
-
-`n8n` • `Node.js` • `Supabase` • `Redis` • `PostgreSQL` • `Google Cloud`  
-`Home Assistant` • `Zigbee2MQTT` • `Docker` • `OpenAI` • `Python`  
+- 📊 **Gestão de Dados & Monitoramento**
+  - Dashboards com **Supabase + Metabase**  
+  - Logs e backups automáticos em **Docker + VPS Hostinger**
 
 ---
 
-## 🏗️ Projetos em destaque
+## 🧰 Stack & Ferramentas Favoritas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Home%20Assistant-IoT-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-Inteligência%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-Cache-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Banco%20de%20Dados-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Deploy-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 🏗️ Projetos em Destaque
 
 | Projeto | Descrição |
 |:--|:--|
-| **Smile Odontologia IA** | Agente de atendimento automatizado com IA, Supabase e Google Calendar |
-| **Nexus Home LP** | Automação residencial e digital com foco em integração e inovação |
-| **Vendedor IA** | Fluxo de vendas inteligente com WhatsApp, Supabase e Asaas |
-| **Fluxo Clínica** | Sistema de agendamento autônomo com Redis e Postgres Chat Memory |
+| 🦷 **Smile Odontologia IA** | Agente de atendimento com IA, Supabase, Redis e Google Calendar |
+| 🏡 **Nexus Home LP** | Automação residencial e digital com integração total via n8n e Home Assistant |
+| 🤖 **Vendedor IA** | Sistema de vendas autônomo via WhatsApp com Supabase e Asaas |
+| 🗓️ **Fluxo Clínica** | Agendamento inteligente com Redis + Postgres Chat Memory |
+| 💾 **Backup & Monitoramento VPS** | Automação de backups diários com Rclone + Hostinger |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiolpta&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolpta&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -59,19 +66,33 @@ Da automação residencial ao fluxo de negócios, transformo tarefas manuais em 
 
 ---
 
-## 🌎 Conecte-se comigo
+## 🌎 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sérgio%20Braz-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sergiobraz)  
-[![Nexus Home LP](https://img.shields.io/badge/Nexus%20Home%20LP-Visite%20o%20site-0A66C2?style=for-the-badge&logo=homeassistant)](https://nexushomelp.tec.br)  
-[![GitHub](https://img.shields.io/badge/GitHub-sergiolpta-181717?style=for-the-badge&logo=github)](https://github.com/sergiolpta)
+<p align="center">
+  <a href="https://linkedin.com/in/sergiobraz">
+    <img src="https://img.shields.io/badge/LinkedIn-Sérgio%20Braz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://nexushomelp.tec.br">
+    <img src="https://img.shields.io/badge/Nexus%20Home%20LP-Site-0A66C2?style=for-the-badge&logo=homeassistant&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sergiolpta">
+    <img src="https://img.shields.io/badge/GitHub-sergiolpta-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> “Automação não é sobre fazer menos — é sobre liberar tempo para fazer o que realmente importa.” ⚡  
-> — Sérgio Braz
+## 💬 Propósito & Mentoria
 
-   😄 Meus interesses: 
-   
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-</p>
+> “Automação não é sobre fazer menos — é sobre liberar tempo para o que realmente importa.” ⚡  
 
+Se você quer:
+- Estruturar automações inteligentes no **n8n**
+- Integrar IA, Supabase e APIs reais  
+- Ou criar uma **casa inteligente do zero**, gastando pouco  
+
+👉 Me encontre em: [nexushomelp.tec.br](https://nexushomelp.tec.br) ou [LinkedIn](https://linkedin.com/in/sergiobraz)
+
+---
+
+⭐ *Se curtiu o conteúdo ou quer trocar ideias sobre automação, dê uma estrela em algum projeto — isso ajuda muito!*  
