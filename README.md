@@ -1,7 +1,7 @@
 <!-- 💠 Banner - substitua a URL abaixo pela arte real do seu banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sergiolpta/sergiolpta.github.io/main/images/Tecnologia%20e%20Inova%C3%A7%C3%A3o%20Digital%20Residencial.png" width="80%" alt="Banner Nexus Home LP - Sérgio Braz">
-</p>
+  <img src="https://raw.githubusercontent.com/sergiolpta/sergiolpta.github.io/main/images/Tecnologia%20e%20Inova%C3%A7%C3%A3o%20Digital%20Residencial.png" width="60%" alt="Banner Nexus Home LP - Sérgio Braz">
+</p
 
 # 👋 Olá, eu sou o **Sérgio Braz**  
 💡 **Automação Inteligente | n8n | IA | Processos | Automação Residencial**
