@@ -1,6 +1,6 @@
 <!-- 💠 Banner - substitua a URL abaixo pela arte real do seu banner -->
 <p align="center">
-https://github.com/sergiolpta/sergiolpta.github.io/blob/main/images/Tecnologia%20e%20Inova%C3%A7%C3%A3o%20Digital%20Residencial.png
+  <img src="https://raw.githubusercontent.com/sergiolpta/sergiolpta.github.io/main/images/Tecnologia%20e%20Inova%C3%A7%C3%A3o%20Digital%20Residencial.png" width="100%" alt="Banner Nexus Home LP - Sérgio Braz">
 </p>
 
 # 👋 Olá, eu sou o **Sérgio Braz**  
