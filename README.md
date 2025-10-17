@@ -1,10 +1,9 @@
 
-<img src="https://github.com/sergiolpta/sergiolpta/blob/main/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://nexushomelp.tec.br/assets/banner-nexus-github.png" width="100%" alt="Nexus Home LP Banner">
+
 🇧🇷
 <p align="left"> 
 
-<!-- Banner opcional -->
-<img src="https://nexushomelp.tec.br/assets/banner-nexus-github.png" width="100%" alt="Nexus Home LP Banner">
 
 # 👋 Olá, eu sou o Sérgio Braz  
 
